@@ -1,6 +1,3 @@
-# 2022_AIR Lab_Manuals
-
-이것은 경희대학교 AIR Lab (Artificial Intelligence and Robotics) 소속 [박지원 학부연구생](https://zzziito.github.io/)이 진행하고 있는 프로젝트입니다. <br/><br/>
 
 ## Table of Contents
 
